@@ -1,0 +1,6 @@
+v1_HFD_using_dlib_FFD;
+    1. Easy to setup, easy to run
+    2. Very slow, as it doesn't use GPU processing
+    3. Accuracy is not reliably good
+    4. Fails to detect faces from all angles, sometimes detects faces in non-human objects
+    5. Can't be fine-tuned
